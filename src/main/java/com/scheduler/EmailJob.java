@@ -5,6 +5,7 @@ package com.scheduler;
 
 import java.io.Serializable;
 
+import com.ajax.AjaxExample;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
